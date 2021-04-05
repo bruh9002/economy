@@ -1,0 +1,2 @@
+# economy
+An economy bot.
