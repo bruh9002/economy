@@ -36,4 +36,4 @@ client.on("ready", async () => {
     client.user.setActivity("!help", {type: "WATCHING"})
 })
 
-client.login("your bot token")
+client.login("ODI4MjU0MDIwNDM0NTI2MjA5.YGm5qg.Z2OI3SKYOmzn44xiAjUIMLzdGmI")
